@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Hihoshi  
   
 
-Contact me though this [email](eternaldwellers@gmail.com)  
+Glad to see you here!  Contact me though this [email](eternaldwellers@gmail.com)  
   
 
 <br/>  
@@ -39,10 +39,6 @@ Contact me though this [email](eternaldwellers@gmail.com)
 
 <br/>  
 
-  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=Hishoshi&&style=flat-square)  
   
 
@@ -52,4 +48,3 @@ Contact me though this [email](eternaldwellers@gmail.com)
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
