@@ -1,23 +1,8 @@
 ## Hey 👋, I'm Hihoshi  
   
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🌱 I’m currently do some deep learning   
+Contact me though this [email](eternaldwellers@gmail.com)  
   
-
-+ ✉️ Contact me through [my email](eternaldwellers@gmail.com)  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
